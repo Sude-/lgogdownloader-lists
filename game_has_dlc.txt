@@ -24,6 +24,7 @@ Rp ^blackguards_special_edition$
 Rp ^blackwell_epiphany_the$
 Rp ^bombshell$
 Rp ^bounty_train$
+Rp ^broken_sword_directors_cut$
 Rp ^celestian_tales_old_north$
 Rp ^cities_in_motion$
 Rp ^convoy$
@@ -104,6 +105,7 @@ Rp ^no_pineapple_left_behind$
 Rp ^not_a_hero$
 Rp ^obduction$
 Rp ^oddworld_new_n_tasty$
+Rp ^offworld_trading_company$
 Rp ^okhlos$
 Rp ^omerta_city_of_gangsters$
 Rp ^outlast$
@@ -172,6 +174,7 @@ Rp ^transistor$
 Rp ^trine_2_complete_story$
 Rp ^tropico_4$
 Rp ^tropico_5$
+Rp ^tyranny_game$
 Rp ^unrest$
 Rp ^valhalla_hills$
 Rp ^walking_dead_season_1_the$
