@@ -21,6 +21,7 @@ Rp ^bittrip_presents_runner2_future_legend_of_rhythm_alien$
 Rp ^bittrip_runner$
 Rp ^bittrip_void$
 Rp ^blackguards_special_edition$
+Rp ^blackhole$
 Rp ^blackwell_epiphany_the$
 Rp ^bombshell$
 Rp ^bounty_train$
@@ -28,6 +29,7 @@ Rp ^broken_sword_directors_cut$
 Rp ^celestian_tales_old_north$
 Rp ^cities_in_motion$
 Rp ^convoy$
+Rp ^cossacks_3$
 Rp ^craft_the_world$
 Rp ^crashlands$
 Rp ^crypt_of_the_necrodancer$
@@ -37,6 +39,7 @@ Rp ^darksiders_ii$
 Rp ^dead_synchronicity_tomorrow_comes_today$
 Rp ^democracy_3$
 Rp ^desktop_dungeons$
+Rp ^diluvion_preorder$
 Rp ^dins_curse$
 Rp ^divinity_dragon_commander$
 Rp ^divinity_original_sin$
@@ -47,12 +50,14 @@ Rp ^dreamfall_chapters_season_pass$
 Rp ^dropsy$
 Rp ^drox_operative$
 Rp ^dungeons_2$
+Rp ^dwarves_the$
 Rp ^dying_light_the_following_enhanced_edition$
 Rp ^eador_masters_of_the_broken_world$
 Rp ^enter_the_gungeon$
 Rp ^escapists_the_walking_dead_the$
 Rp ^ether_one$
 Rp ^europa_universalis_iii_complete$
+Rp ^even_the_ocean$
 Rp ^evoland_2$
 Rp ^factorio$
 Rp ^fallen_enchantress_legendary_heroes_the_dead_world_battlegrounds$
@@ -89,6 +94,7 @@ Rp ^layers_of_fear$
 Rp ^legends_of_eisenwald$
 Rp ^lords_of_xulima$
 Rp ^lumo$
+Rp ^man_o_war_corsair$
 Rp ^mark_of_the_ninja$
 Rp ^massive_chalice$
 Rp ^master_of_orion$
@@ -127,6 +133,7 @@ Rp ^risen_3_titan_lords$
 Rp ^ronin$
 Rp ^samorost_3$
 Rp ^satellite_reign$
+Rp ^shadow_tactics_blades_of_the_shogun$
 Rp ^shadow_warrior_2$
 Rp ^shadowgate$
 Rp ^shadowrun_hong_kong_extended_edition$
@@ -134,6 +141,7 @@ Rp ^shadowrun_returns$
 Rp ^shadows_heretic_kingdoms$
 Rp ^shardlight$
 Rp ^shelter_2$
+Rp ^silence$
 Rp ^sins_of_a_solar_empire_rebellion_ultimate_edition$
 Rp ^skyshines_bedlam$
 Rp ^slain$
@@ -152,8 +160,10 @@ Rp ^surgeon_simulator_2013$
 Rp ^sword_of_the_stars_the_pit$
 Rp ^sword_of_the_stars_the_pit_gold_edition$
 Rp ^tahira_echoes_of_the_astral_empire$
+Rp ^tahira_echoes_of_the_astral_empire$
 Rp ^tales_of_majeyal$
 Rp ^technobabylon$
+Rp ^tempest$
 Rp ^terratech$
 Rp ^the_banner_saga$
 Rp ^the_book_of_unwritten_tales_2$
@@ -182,4 +192,5 @@ Rp ^wasteland_2_directors_cut$
 Rp ^wasteland_2_kickstarter$
 Rp ^way_of_the_samurai_4$
 Rp ^x_rebirth$
+Rp ^yookalaylee$
 Rp ^zombie_night_terror$
