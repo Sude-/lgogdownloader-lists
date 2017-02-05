@@ -26,6 +26,7 @@ Rp ^blackwell_epiphany_the$
 Rp ^bombshell$
 Rp ^bounty_train$
 Rp ^broken_sword_directors_cut$
+Rp ^cayne$
 Rp ^celestian_tales_old_north$
 Rp ^cities_in_motion$
 Rp ^convoy$
