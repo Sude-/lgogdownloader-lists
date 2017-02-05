@@ -152,6 +152,7 @@ Rp ^star_ruler_2$
 Rp ^star_vikings$
 Rp ^starpoint_gemini_2$
 Rp ^stasis$
+Rp ^steamworld_heist$
 Rp ^stories_the_path_of_destinies$
 Rp ^strike_suit_zero$
 Rp ^stronghold_crusader_2$
