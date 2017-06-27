@@ -132,6 +132,7 @@ Rp ^revolution_1979_black_friday$
 Rp ^risen_2_dark_waters$
 Rp ^risen_3_titan_lords$
 Rp ^ronin$
+Rp ^saints_row_gat_out_of_hell$
 Rp ^samorost_3$
 Rp ^satellite_reign$
 Rp ^shadow_tactics_blades_of_the_shogun$
